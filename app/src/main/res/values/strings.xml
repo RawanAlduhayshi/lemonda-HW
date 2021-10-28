@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="picture_image">picture</string>
+    <string name="roll_label">roll_label</string>
+    <string name="hello_world">Hello_world</string>
+    <string name="roll">roll</string>
+    <string name="lemon_tree">lemon tree</string>
+    <string name="squeeze_count" />
+
+</resources>
